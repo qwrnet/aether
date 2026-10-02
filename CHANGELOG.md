@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.27](https://github.com/qwrobins/aether/compare/v0.1.26...v0.1.27) (2026-10-02)
+
+### Automation
+
+* Move macOS release builds to the supported `macos-15` runner ahead of the macOS 14 retirement, preserving ARM64 DMGs, Node.js 22, and the existing signing and release flow.
+
 ## [0.1.26](https://github.com/qwrobins/aether/compare/v0.1.25...v0.1.26) (2026-09-11)
 
 ### Bug Fixes
