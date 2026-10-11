@@ -93,7 +93,7 @@ Aether provides a dual-pane file manager with drag-and-drop transfers, multiple 
 ### Install
 
 ```bash
-git clone https://github.com/qwrobins/aether.git
+git clone https://github.com/qwrnet/aether.git
 cd aether
 npm install
 ```
@@ -130,7 +130,7 @@ Creates distributable installers. Configured makers:
 
 ### Install macOS Release Builds
 
-Download the latest macOS DMG from the [GitHub Releases](https://github.com/qwrobins/aether/releases) page, open it, and drag Aether into `/Applications`.
+Download the latest macOS DMG from the [GitHub Releases](https://github.com/qwrnet/aether/releases) page, open it, and drag Aether into `/Applications`.
 
 Release DMGs are named with an explicit platform and architecture, such as `Aether-0.1.16-macos-arm64.dmg` or `Aether-0.1.16-macos-x64.dmg`.
 
